@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Sxitxma
+# 👋 Hey, I'm <span style="color:#ff3b3b;">Sxitxma</span>
 
-<img src="https://komarev.com/ghpvc/?username=Sxitxma&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Sxitxma&label=Profile%20Views&color=ff3b3b&style=for-the-badge" />
 
 </div>
 
