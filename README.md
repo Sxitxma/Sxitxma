@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3b3b&height=120&section=header" />
 
+<img src="https://komarev.com/ghpvc/?username=Sxitxma&label=Profile%20Views&color=ff3b3b&style=for-the-badge" />
+
 </div>
 
 ---
