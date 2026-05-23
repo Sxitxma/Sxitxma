@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=700&lines=SXITXMA" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3b3b&height=120&section=header" />
+<img src="https://komarev.com/ghpvc/?username=Sxitxma&label=PROFILE%20VIEWS&color=ff3b3b&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=Sxitxma&label=Profile%20Views&color=ff3b3b&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3b3b&height=120&section=header" />
 
 </div>
 
